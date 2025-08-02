@@ -1,0 +1,5 @@
+[credential]
+	helper = store
+[core]
+	filemode = false
+	autocrlf = input
