@@ -3,3 +3,5 @@
 [core]
 	filemode = false
 	autocrlf = input
+[alias]
+	oneline = log --pretty=format:'%h %ad %an: %s' --date=short

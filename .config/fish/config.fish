@@ -9,3 +9,6 @@ set PATH $PATH /home/klojewski/.local/bin
 if test -f ~/.ai_api_key
   set -x AI_API_KEY (cat ~/.ai_api_key)
 end
+
+set -gx PATH $PATH /root/.cargo/bin
+
