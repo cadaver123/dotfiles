@@ -2,6 +2,6 @@
 	helper = store
 [core]
 	filemode = false
-	autocrlf = input
+	autocrlf = false
 [alias]
 	oneline = log --pretty=format:'%h %ad %an: %s' --date=short
