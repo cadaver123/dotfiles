@@ -10,3 +10,7 @@ call plug#end()
 
 let g:jb_style='dark'
 colo jb
+
+set tabstop=2
+set shiftwidth=2
+set expandtab
